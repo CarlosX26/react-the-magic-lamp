@@ -4,3 +4,5 @@ this is a simple toggle, when you click the light bulb it turns on, and when you
 
 application link:
 https://react-the-magic-lamp.vercel.app/
+
+*an application created with React Js

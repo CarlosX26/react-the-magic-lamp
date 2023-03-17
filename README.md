@@ -7,7 +7,7 @@ Trata-se de uma aplicação simples desenvolvida com o objetivo de entender os e
 Clone o projeto
 
 ```bash
-  git@github.com:CarlosX26/react-the-magic-lamp.git
+  git clone git@github.com:CarlosX26/react-the-magic-lamp.git
 ```
 
 Entre no diretório do projeto
